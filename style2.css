@@ -132,7 +132,8 @@ body{
 	.group3{
 		width: 89px;
 	    height: 36px;
-		margin-top: 650px;
+		position: absolute;
+		margin-top: 600px;
 		margin-left: 47px;
 	}
 }
