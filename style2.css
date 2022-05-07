@@ -121,7 +121,11 @@ body{
 	}
 	.container p, h3{
 		font-family: 'Comfortaa', cursive;
-		font-size: 16px;
+		font-size: 18px;
 		color: #FFFFFF;
+	}
+
+	.group, .group2{
+		display: none;
 	}
 }
