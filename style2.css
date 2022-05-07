@@ -113,8 +113,7 @@ body{
 		flex-direction: column;
 		text-align: center;
 		color: #FFFFFF;
-		position: absolute;
-		top: 96px;
+		margin-top: 96px;
 	}
 	.container h1{
 		font-family: 'Comforter Brush', cursive;
@@ -136,16 +135,13 @@ body{
 	.group3{
 		width: 89px;
 	    height: 36px;
-		position: absolute;
-		top: 360px;
-		left: 150px;
+        margin-top: 200px;
 	}
 
 	.group4{
-		width: 97px;
-		height: 113px;
-		position: absolute;
-		top: 6px;
-		left: -15px;
+		width: 90px;
+		height: 100px;
+		margin-top: 6px;
+		margin-left: -15px;
 	}
 }
