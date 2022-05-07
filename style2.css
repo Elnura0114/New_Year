@@ -131,7 +131,10 @@ body{
 		align-items: center;
 		justify-content: center;
 	}
-	.group, .group2{
-		display: none;
+	.group{
+		width: 97.3px;
+		height: 113.7px;
+		margin-left: -12.42px;
+		margin-top: 15.76px;
 	}
 }
