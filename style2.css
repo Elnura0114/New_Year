@@ -82,7 +82,11 @@ body{
 		background-color: white;
 	}
 
-	.group, .group2, .group3{
+	.group, .group2, .group3, .group4, .group5{
+		display: none;
+	}
+
+	.container img{
 		display: none;
 	}
 
@@ -104,7 +108,7 @@ body{
     
 	.container h1{
 		font-family: 'Comforter Brush', cursive;
-		font-size: 16px;
+		font-size: 52px;
 		color: #D6BD84;
 		text-align: center;
 		display: flex;
@@ -112,8 +116,8 @@ body{
 		justify-content: center;
 	}
 	.container p{
-		font-family: 'Sora', sans-serif;
-		font-size: 12px;
+		font-family: 'Comfortaa', cursive;
+		font-size: 16px;
 		text-align: center;
 		display: flex;
 		align-items: center;
@@ -121,14 +125,14 @@ body{
 	}
 
 	.container h3{
-		font-family: 'Sora', sans-serif;
-		font-size: 18px;
+		font-family: 'Comfortaa', cursive;
+		font-size: 16px;
 		text-align: center;
 		display: flex;
 		align-items: center;
 		justify-content: center;
 	}
-	.group{
-		width: 50%;
+	.group, .group2{
+		display: none;
 	}
 }
