@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="276c170c-58ac-457e-9595-fdc21b309b2e" name="Default Changelist" comment="fix: media screen 14">
-      <change beforePath="$PROJECT_DIR$/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/style2.css" afterDir="false" />
-    </list>
+    <list default="true" id="276c170c-58ac-457e-9595-fdc21b309b2e" name="Default Changelist" comment="fix: media screen 17" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +54,7 @@
       <workItem from="1651321691913" duration="4016000" />
       <workItem from="1651326032852" duration="10000" />
       <workItem from="1651907839461" duration="2044000" />
-      <workItem from="1651910001049" duration="9554000" />
+      <workItem from="1651910001049" duration="9998000" />
     </task>
     <task id="LOCAL-00001" summary="init: start project New Year">
       <created>1651320397576</created>
@@ -198,7 +196,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651919543264</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="fix: media screen 15">
+      <created>1651919657442</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1651919657442</updated>
+    </task>
+    <task id="LOCAL-00022" summary="fix: media screen 16">
+      <created>1651919841782</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1651919841782</updated>
+    </task>
+    <task id="LOCAL-00023" summary="fix: media screen 17">
+      <created>1651920082721</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1651920082721</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,16 +254,19 @@
     <MESSAGE value="fix: media screen 12" />
     <MESSAGE value="fix: media screen 13" />
     <MESSAGE value="fix: media screen 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: media screen 14" />
+    <MESSAGE value="fix: media screen 15" />
+    <MESSAGE value="fix: media screen 16" />
+    <MESSAGE value="fix: media screen 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: media screen 17" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1651321700206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1651321700206" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1651919552331">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1651920088052">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1651919552331" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1651920088052" />
   </component>
 </project>
