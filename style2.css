@@ -134,7 +134,9 @@ body{
 	.group3{
 		width: 89px;
 	    height: 36px;
-		margin-top: 680px;
+		position: absolute;
+		top: 660px;
+		left: 25px;
 	}
 
 	.group4{
