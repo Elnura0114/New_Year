@@ -106,35 +106,22 @@ body{
 
 @media screen and (max-width: 390px) {
 
+	.container{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+		text-align: center;
+		color: #FFFFFF;
+	}
 	.container h1{
 		font-family: 'Comforter Brush', cursive;
-		font-size: 52px;
+		font-size: 40px;
 		color: #D6BD84;
-		text-align: center;
-		display: flex;
-		align-items: center;
-		justify-content: center;
 	}
-	.container p{
+	.container p, h3{
 		font-family: 'Comfortaa', cursive;
 		font-size: 16px;
-		text-align: center;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-	}
-	.container h3{
-		font-family: 'Comfortaa', cursive;
-		font-size: 16px;
-		text-align: center;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-	}
-	.group{
-		width: 97.3px;
-		height: 113.7px;
-		margin-left: -12.42px;
-		margin-top: 15.76px;
+		color: #FFFFFF;
 	}
 }
