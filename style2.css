@@ -104,54 +104,34 @@ body{
 }
 
 
-@media screen and (max-width: 360px) and (max-height: 783px) {
+@media screen and (max-width: 390px) {
 
-	body{
-		background-color: #1a5b35;
-		background-repeat: no-repeat;
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: space-around;
-		position: relative;
-		padding: 0;
-		margin: 0;
-	}
-	.container{
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		flex-direction: column;
-		text-align: center;
-	}
 	.container h1{
 		font-family: 'Comforter Brush', cursive;
-		font-size: 30px;
+		font-size: 52px;
 		color: #D6BD84;
+		text-align: center;
+		display: flex;
+		align-items: center;
+		justify-content: center;
 	}
-	.container p, h3{
+	.container p{
 		font-family: 'Comfortaa', cursive;
-		font-size: 14px;
+		font-size: 16px;
+		text-align: center;
+		display: flex;
+		align-items: center;
+		justify-content: center;
 	}
-
-	.group3 img{
-		width: 89px;
-		height: 36px;
+	.container h3{
+		font-family: 'Comfortaa', cursive;
+		font-size: 16px;
+		text-align: center;
+		display: flex;
+		align-items: center;
+		justify-content: center;
 	}
-
-	.group4 img{
-		width: 97px;
-		height: 114px;
-		/*margin-left: -12.42px;*/
-		/*margin-top: 16px;*/
-	}
-
-	.group5 img{
-		width: 40px;
-		height: 40px;
-		/*margin-left: 295px;*/
-		/*margin-top: 72px;*/
-	}
-	.group2 img{
+	.group, .group2{
 		display: none;
 	}
 }
