@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="276c170c-58ac-457e-9595-fdc21b309b2e" name="Default Changelist" comment="fix: media screen 2">
+    <list default="true" id="276c170c-58ac-457e-9595-fdc21b309b2e" name="Default Changelist" comment="fix: media screen 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/style2.css" afterDir="false" />
     </list>
@@ -57,7 +57,7 @@
       <workItem from="1651321691913" duration="4016000" />
       <workItem from="1651326032852" duration="10000" />
       <workItem from="1651907839461" duration="2044000" />
-      <workItem from="1651910001049" duration="5067000" />
+      <workItem from="1651910001049" duration="5655000" />
     </task>
     <task id="LOCAL-00001" summary="init: start project New Year">
       <created>1651320397576</created>
@@ -115,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651914709172</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fix: media screen 3">
+      <created>1651915125040</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1651915125040</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,16 +147,17 @@
     <MESSAGE value="fix: media screen" />
     <MESSAGE value="feat: added image for media screen" />
     <MESSAGE value="fix: media screen 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: media screen 2" />
+    <MESSAGE value="fix: media screen 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: media screen 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1651321700206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1651321700206" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1651914716659">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1651915131560">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1651914716659" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1651915131560" />
   </component>
 </project>
