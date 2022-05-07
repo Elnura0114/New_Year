@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="276c170c-58ac-457e-9595-fdc21b309b2e" name="Default Changelist" comment="fix: media screen">
+    <list default="true" id="276c170c-58ac-457e-9595-fdc21b309b2e" name="Default Changelist" comment="feat: added image for media screen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/style2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,7 @@
       <workItem from="1651321691913" duration="4016000" />
       <workItem from="1651326032852" duration="10000" />
       <workItem from="1651907839461" duration="2044000" />
-      <workItem from="1651910001049" duration="3755000" />
+      <workItem from="1651910001049" duration="4638000" />
     </task>
     <task id="LOCAL-00001" summary="init: start project New Year">
       <created>1651320397576</created>
@@ -102,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651913022473</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: added image for media screen">
+      <created>1651913856335</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651913856335</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,16 +131,17 @@
     <MESSAGE value="feat: image" />
     <MESSAGE value="fix: media" />
     <MESSAGE value="fix: media screen" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: media screen" />
+    <MESSAGE value="feat: added image for media screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: added image for media screen" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1651321700206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1651321700206" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1651913030147">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1651913864787">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1651913030147" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1651913864787" />
   </component>
 </project>
