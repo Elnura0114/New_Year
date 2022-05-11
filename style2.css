@@ -113,7 +113,7 @@ body{
 		flex-direction: column;
 		text-align: center;
 		color: #FFFFFF;
-		margin-top: 180px;
+		margin-top: 190px;
 	}
 	.container h1{
 		font-family: 'Comforter Brush', cursive;
@@ -142,7 +142,7 @@ body{
 	.group4{
 		background-repeat: no-repeat;
 		position: absolute;
-		margin-right: 300px;
+		margin-right: 290px;
 		transform: matrix(0.7, 0, 0, 0.7, 0, 0);
 	}
 
